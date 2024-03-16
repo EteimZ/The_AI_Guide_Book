@@ -1,4 +1,4 @@
-# Generative AI Guide book
+# The AI Guide book
 
 This repo is my note to the ever evolving Generative AI landscape.
 
