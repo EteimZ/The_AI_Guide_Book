@@ -74,6 +74,7 @@ This repo is my note to the ever evolving Generative AI landscape.
   - GPT3
 - MPT
 - Gemini
+- BERT
 
 ### Fine Tuned models
 - [Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)
@@ -94,11 +95,39 @@ This repo is my note to the ever evolving Generative AI landscape.
 ### Music Gen models
 - MusicLM
 
+### Transformer Vision Models
+- ViT
+- Swim
+
+### Vision Langauge Pretrained Models
+- BLIP
+- CLIP
+- ALIGN
+- ViLBERT
+
+### Speech Recognition Models
+- Whisper
+- Conformer
+
+### Speech Synthesis Models
+- Voice Box
+- Natural Speech
+
+## Task
+### Language
+- QA
+- Summurization
+
+### Vision
+- VQA
+- VCR
+
 ## Prompt formats
 Different LLMs have their formats for provide input to their fine tuned models. Read more [here](https://huggingface.co/docs/transformers/main/en/chat_templating)
 - [ChatML](https://github.com/MicrosoftDocs/azure-docs/blob/main/articles/ai-services/openai/includes/chat-markup-language.md#chatml)
 - LLaMA2 format
 - Mistral instruct format
+
 
 
 ## Papers
