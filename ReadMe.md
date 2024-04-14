@@ -38,11 +38,14 @@ This repo is my note to the ever evolving Generative AI landscape.
 
 ### Fine tuning Techniques
 - SFT
+- Self instruct
 
 ### Parameter Effecient Fine Tuning Techniques
 - LoRA
 - QLoRA
 - Adapters
+- Prompt Tuning
+- Prefix Tuning 
 
 ### Alignment techniques
 - RLHF
