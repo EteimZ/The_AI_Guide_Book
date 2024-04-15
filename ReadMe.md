@@ -2,7 +2,6 @@
 
 This repo is my note to the ever evolving Generative AI landscape.
 
-
 ## Terminologies
 - Language model
 - Large Language Models
@@ -22,7 +21,10 @@ This repo is my note to the ever evolving Generative AI landscape.
 - Chat tuned models
 
 ## Model Architecture
-- Transformers
+- Transformer
+  - Encoder-Decoder
+  - Decoder only
+  - Encoder only
 - Mixture of Experts
 - Mamba
 - State Space Models(SSM)
