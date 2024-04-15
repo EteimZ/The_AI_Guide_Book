@@ -2,6 +2,7 @@
 
 This repo is my note to the ever evolving Generative AI landscape.
 
+
 ## Terminologies
 - Language model
 - Large Language Models
