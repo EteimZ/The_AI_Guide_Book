@@ -4,44 +4,17 @@ sidebar_position: 1
 
 # Introduction
 
-Let's discover **Docusaurus in less than 5 minutes**.
+We are currently in the age of AI. AI is now mainstream and can be found everywhere. Wherever you go, you must hear about AI. Its impact is clearly visible, but there's one problem. No, the problem isn't the Terminator or a robot invasion 🤞. The problem is accessibility for those curious about the field.
 
-## Getting Started
+Learning AI/ML has been very daunting because the biggest problem is deciding where to start. It is even more daunting now because more and more layers have been added to the field. The field is growing at a fast pace. Courses become outdated in less than 3 months 😅. New advancements are coming out almost every weekend. This has made AI more difficult than ever to learn or break into, especially for beginners.
 
-Get started by **creating a new site**.
+To solve this problem, I decided to create this site. It is not a course itself but more of a guide that would point you in the right direction when you are learning or trying to update your knowledge. I hope you find it useful.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## How To Read
 
-### What you'll need
+You can read this guide in whatever manner you prefer. Use the sidebar to navigate to wherever you find informative. The guide is divided into the following sections:
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+- **Core Concepts**: This section contains useful AI terminologies.
+- **Architecture**: This section contains various model architectures used in the field.
+- **Techniques**: This section contains various techniques used in Generative AI.
+- **Models**: This section guides on various model implementations.

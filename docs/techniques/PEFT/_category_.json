@@ -1,0 +1,8 @@
+{
+    "label": "Parameter Efficient Fine-Tuning",
+    "position": 3,
+    "link": {
+      "type": "generated-index",
+      "description": "PEFT Techniques."
+    }
+}

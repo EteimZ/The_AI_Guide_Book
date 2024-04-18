@@ -34,9 +34,9 @@ export default function Home(): JSX.Element {
       title={`Home`}
       description="Your guide to the ever evolving world of Generative AI">
       <HomepageHeader />
-      <main>
+      {/* <main>
         <HomepageFeatures />
-      </main>
+      </main> */}
     </Layout>
   );
 }
